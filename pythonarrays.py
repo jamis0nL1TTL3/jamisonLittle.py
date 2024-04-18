@@ -6,7 +6,7 @@ print(array)
 print(array[1][2])
 print(np.sum(array))
 
-#Print mean of each row
+#Print the mean of each row
 print(np.mean(array, axis=1))
 
 #Print max of each column

@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf52c438-aff7-43cf-a3d2-23f83827d591" name="Changes" comment="git remote add origin https://github.com/KwintennIsMe/KwintennIsMe-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main">
-      <change afterPath="$PROJECT_DIR$/pythonarrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonarrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonarrays.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +84,7 @@
       <workItem from="1712695158177" duration="33000" />
       <workItem from="1713405271463" duration="165000" />
       <workItem from="1713412847348" duration="134000" />
-      <workItem from="1713471330088" duration="422000" />
+      <workItem from="1713471330088" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/brookham/GitHub-assignment.git">
       <option name="closed" value="true" />
@@ -136,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712451630897</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="git remote add origin https://github.com/KwintennIsMe/KwintennIsMe-Git-Assignment.git&#10;git branch -M main&#10;git push -u origin main">
+      <option name="closed" value="true" />
+      <created>1713471789612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713471789612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
