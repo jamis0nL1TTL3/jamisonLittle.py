@@ -9,5 +9,5 @@ print(np.sum(array))
 #Print the mean of each row
 print(np.mean(array, axis=1))
 
-#Print max of each column
+#Print the max of each column
 print(np.max(array, axis=0))
