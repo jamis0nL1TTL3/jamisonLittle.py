@@ -1,8 +1,6 @@
-# area of a rectangle
-
-width = int(input("Please enter an integer for a rectangles width: "))
-length = int(input("Please enter an integer for a rectangles length: "))
-
-rect_area = width * length
-
-print (rect_area)
+# area of a rectangle using users input
+def rect_area():
+    width = int(input("Please enter an integer for the rectangle width: "))
+    length = int(input("Please enter an integer for the rectangle length: "))
+    return width * length
+print(rect_area())
