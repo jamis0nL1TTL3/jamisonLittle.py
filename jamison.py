@@ -1,20 +1,17 @@
 # area of a rectangle using users input
 
-def rect_area():
-    '''Gets User input and uses given integers to calculate area of a rectangle
+def rect_area(length:int, width:int) -> int:
+    '''Multiplies length and width of a rectangle to find area
 
     Parameters:
     -----------
-    width: int
-        User inputs given width for the rectangle
     length: int
-        User inputs given length for the rectangle
+        First number provided is the length of rectangle
+    width: int
+        Second number provided is the width of rectangle
 
     Returns:
     --------
-    Multiplies the two given integers and prints out the result
+    Multiplies the two integers to find the area of the rectangle
     '''
-    width = int(input("Please enter an integer for the rectangle width: "))
-    length = int(input("Please enter an integer for the rectangle length: "))
-    return width * length
-print(rect_area())
+    return length * width
